@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $mainFonts;
+    color: $white;
+    background-color: $background;
+}
+
+h1 {
+    text-align: center;
+    margin: 0 auto 10px;
+    font-size: 3em;
+    font-weight: 300;
+}
+
+a {
+    color: $white;
+    text-decoration: none;
+}
